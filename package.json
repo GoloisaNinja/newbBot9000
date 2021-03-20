@@ -1,0 +1,16 @@
+{
+	"name": "newbbot9000",
+	"version": "1.0.0",
+	"description": "A grumpy newbsanity bot!",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jack Collins",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"twit": "^2.2.11"
+	}
+}
